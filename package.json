@@ -1,0 +1,29 @@
+{
+  "name": "drag-by-mouse",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@types/react": "17.0.14",
+    "@types/react-dom": "17.0.9",
+    "react": "16.12.0",
+    "react-dom": "16.12.0",
+    "react-horizontal-scrolling-menu": "3.2.0",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
